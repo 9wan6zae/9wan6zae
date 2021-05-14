@@ -25,5 +25,3 @@
 	<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 	<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
-<hr>
-<p style="width: 50%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=9wan6zae&show_icons=true&locale=en&layout=compact" alt="9wan6zae" /></p>
