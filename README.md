@@ -9,7 +9,7 @@
 
 <h2>Experience</h2>
 
-- Graduated from Pusan National University majoring in Computer Engineering (2015.03 - 2021.02)
+- Graduated from Pusan National University majoring in Computer Engineering (2021.02)
 
 - FE Developer | Venduster, Busan (2020.10 - )
 
