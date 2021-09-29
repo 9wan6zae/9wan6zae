@@ -35,4 +35,4 @@
 </p>
 
 <h2 align="left">Links</h2>
-- Landing pages created using Nuxt (http://www.flaground.co.kr)
+- Landing pages created using Nuxt (https://www.flaground.co.kr)
