@@ -35,5 +35,5 @@
 </p>
 
 <h2 align="left">Links</h2>
-- Landing pages created using Nuxt (https://www.flaground.co.kr)
+- Landing pages created using Nuxt (https://www.flaground.co.kr)<br/>
 - 이동약자를 위한 웹 서비스, 계단정복지도 (https://www.staircrusher.club)
