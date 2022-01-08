@@ -11,7 +11,7 @@
 
 - Graduated from Pusan National University majoring in Computer Engineering (2021.02)
 
-- FE Developer | Venduster, Busan (2020.10 - )
+- FE Developer | Venduster, Busan (2020.10 - 2021.12)
 
 - FE Developer Intern | Venduster, Busan (2019.12 - 2020.10)
 
@@ -36,3 +36,4 @@
 
 <h2 align="left">Links</h2>
 - Landing pages created using Nuxt (https://www.flaground.co.kr)
+- 이동약자를 위한 웹 서비스, 계단정복지도 (https://www.staircrusher.club)
