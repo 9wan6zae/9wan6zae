@@ -11,7 +11,7 @@
 
 - Graduated from Pusan National University majoring in Computer Engineering (2021.02)
 
-- FE Developer | Venduster, Busan (2020.10 - 2021.12)
+- FE Developer | Venduster, Busan (2020.10 - 2022.01)
 
 - FE Developer Intern | Venduster, Busan (2019.12 - 2020.10)
 
