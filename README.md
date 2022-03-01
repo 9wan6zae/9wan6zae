@@ -9,11 +9,13 @@
 
 <h2>Experience</h2>
 
-- Graduated from Pusan National University majoring in Computer Engineering (2021.02)
+- LikeLion X Ably Externship (2022.01 - 2022.02)
 
 - FE Developer | Venduster, Busan (2020.10 - 2022.01)
 
 - FE Developer Intern | Venduster, Busan (2019.12 - 2020.10)
+
+- Pusan National University majoring in Computer Engineering (2015.03 - 2021.02)
 
 ## Languages and Tools
 ### Familiar
