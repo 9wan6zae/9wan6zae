@@ -15,25 +15,25 @@
 
 - FE Developer Intern | Venduster, Busan (2019.12 - 2020.10)
 
-<h2 align="left">Languages and Tools</h2>
-<p align="center"><b>Familiar</b><p>
-<p align="center">
-	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" alt="javascript"/>
+## Languages and Tools
+### Familiar
+<div>
+	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" alt="javascript"/>
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3"/>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5"/>
 	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" alt="Vue.js"/>
 	<img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white" alt="Nuxt.js"/>
 	<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white" alt="Vuetify"/>
-</p>
-<p align="center"><b>Studying</b><p>
-	<p align="center">
-	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React"/>
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React"/>
 	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" alt="Typescript"/>
+</div>
+
+### Studying
+<div>
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter"/>
 	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" alt="Dart"/>
-	</p>
-</p>
+</div>
 
-<h2 align="left">Links</h2>
+## Links
 - Landing pages created using Nuxt (https://www.flaground.co.kr)<br/>
 - 이동약자를 위한 웹 서비스, 계단정복지도 (https://www.staircrusher.club)
