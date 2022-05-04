@@ -9,7 +9,9 @@
 
 <h2>Experience</h2>
 
-- LikeLion X Ably Externship (2022.01 - 2022.02)
+- FE Developer | ABLY corporation (2022.05 - )
+
+- LikeLion X ABLY Externship (2022.01 - 2022.02)
 
 - FE Developer | Venduster, Busan (2020.10 - 2022.01)
 
