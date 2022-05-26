@@ -9,7 +9,7 @@
 
 <h2>Experience</h2>
 
-- FE Developer | ABLY corporation (2022.05 - )
+- FE Engineer | ABLY corporation (2022.05 - )
 
 - LikeLion X ABLY Externship (2022.01 - 2022.02)
 
